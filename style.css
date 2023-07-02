@@ -1,0 +1,266 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+
+
+.container{
+	width:95%;
+	margin:0 auto;
+}
+
+.row{
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.justify-content{
+	align-items:center;
+}
+
+
+/* header section start */
+
+header{
+	padding:15px 0;
+	background-color:black;
+	background-image;
+}
+
+.navbar{
+	height:100px;
+	background-color:white;
+	margin-bottom:30px;
+}
+
+.banner-content{
+	height:300px;
+	background-color:white;
+}
+
+/* header section end */
+
+
+
+
+/* about section start */
+
+.about-sec{
+	padding:15px 0px;
+	background-color:white;
+}
+
+.about-1{
+	height:200px;
+	background-color:black;
+}
+
+.about-2{
+	height:200px;
+	background-color:black;
+}
+
+.about-3{
+	height:200px;
+	background-color:black;
+}
+
+.about-4{
+	height:200px;
+	background-color:black;
+}
+
+/* about section end */
+
+
+/* content section start */
+
+.content-sec{
+	padding:15px 0;
+	background-color:black;
+}
+
+.content-image{
+	height:500px;
+	background-color:white;
+}
+
+.content-1{
+	height:150px;
+	background-color:white;
+	margin-bottom:30px;
+}
+
+.content-2{
+	height:150px;
+	background-color:white;
+}
+
+
+/* content section end */
+
+/* features section start */
+
+.features-sec{
+	padding:15px 0;
+	background-color:white;
+}
+
+.features-bg{
+	height:400px;
+	background-color:black;
+	margin-bottom:50px;
+}
+
+.features-content{
+	height:400px;
+	background-color:black;
+	margin-bottom:50px;
+}
+
+
+
+/* features section end */
+
+
+/* news letter section start */
+
+.newsletter-sec{
+	padding:15px 0;
+	background-color:black;
+}
+
+.newsletter-content{
+	height:200px;
+	background-color:white;
+}
+
+.newsletter-searchbar{
+	height:200px;
+	background-color:white;
+}
+
+
+
+/* news letter section end */
+
+
+/* links section start */
+
+.links-sec{
+	padding:15px 0;
+	background-color:white;
+}
+
+.useful-links{
+	height:300px;
+	background-color:black;
+}
+
+.our-services{
+	height:300px;
+	background-color:black;
+}
+
+.contact-us{
+	height:300px;
+	background-color:black;
+}
+
+.about-moderna{
+	height:300px;
+	background-color:black;
+}
+
+
+/* links section end */
+
+
+
+/* footer section start */
+
+footer{
+	padding:15px 0;
+	background-color:black;
+}
+
+.copyright-details{
+	height:100px;
+	background-color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.col-1{
+	width:8.3%;
+	padding:0 15px;
+}
+
+.col-2{
+	width:16.6%;
+	padding:0 15px;
+}
+
+.col-3{
+	width:25%;
+	padding:0 15px;
+	
+}
+
+.col-4{
+	width:33.3%;
+	padding:0 15px;
+}
+
+.col-5{
+	width:41.6%;
+	padding:0 15px;
+
+}
+
+.col-6{
+	width:50%;
+	padding:0 15px;
+
+}
+
+.col-7{
+	width:58.3%;
+	padding:0 15px;
+
+}
+
+.col-8{
+	width:66.6%;
+	padding:0 15px;
+
+}
+
+.col-9{
+	width:75%;
+	padding:0 15px;
+}
+
+.col-10{
+	width:83.3%;
+	padding:0 15px;
+}
+
+.col-11{
+	width:91.6%;
+	padding:0 15px;
+}
+
+.col-12{
+	width:100%;
+	padding:0 15px;
+}
